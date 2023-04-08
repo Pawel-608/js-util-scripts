@@ -1,0 +1,1 @@
+kliknij Ctrl+O i wybierz obszar na którym maja zostac zaznaczone wszystkie checkboxy
